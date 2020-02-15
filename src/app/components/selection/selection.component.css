@@ -1,0 +1,11 @@
+
+.inputs[type=text] {
+    font-size: 1em;
+    text-align: center;
+    background-color: rgb(212, 187, 187);
+}
+
+input[type=submit] {
+    font-size: 2em;
+}
+
